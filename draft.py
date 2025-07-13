@@ -48,3 +48,5 @@ print(long)
 # print(tien.get_math_avg())
 
 print("{0} {1}, {2}".format("long", "le", "hoang"))
+
+print("hao-2")
