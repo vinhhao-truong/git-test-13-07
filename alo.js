@@ -42,3 +42,4 @@ const f = (x) => {
 console.log(f(-123409821));
 console.log(f(20));
 console.log("alo");
+console.log("alo2");
